@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a52d06aeb5d2e4fbc8a32c2a9190ad, type: 3}
+  m_Name: Notocordio
+  m_EditorClassIdentifier: 
+  cardName: NOTOCORDIO
+  taxonName: 'Phylum: CHORDATA'
+  stat: 5
+  value: 4
+  allStats: 0
+  team: 0
+  image: {fileID: -967481176392104043, guid: 8bf97768caff03e4d9f4b501a6d61ae5, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a52d06aeb5d2e4fbc8a32c2a9190ad, type: 3}
+  m_Name: FijacionAlSuelo
+  m_EditorClassIdentifier: 
+  cardName: "FIJACI\xD3N AL SUELO"
+  taxonName: 'Order: SCLERACTINIA'
+  stat: 6
+  value: 4
+  allStats: 0
+  team: 0
+  image: {fileID: -4525367828479685092, guid: b63dc2b2e96debf47a4c49c291008069, type: 3}

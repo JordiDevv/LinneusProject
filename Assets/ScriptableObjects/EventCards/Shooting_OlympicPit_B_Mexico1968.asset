@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bbdfc843a5ed734a8c56ed20ea96a75, type: 3}
+  m_Name: Shooting_OlympicPit_B_Mexico1968
+  m_EditorClassIdentifier: 
+  cardName: Shooting_OlympicPit_B_Mexico1968
+  habitat: PLAYA
+  discipline: TIRO DEPORTIVO
+  year: "M\xE9xico 1968"
+  modality: "foso ol\xEDmpico"
+  image: {fileID: 5769693385948582380, guid: 979d16cc7fca8f04dbd6524e385d3f0c, type: 3}
+  logo: {fileID: 21300000, guid: 99504577f8b45b641838047809949b24, type: 3}
+  multipliers:
+  - Stat: 3
+    Multiplier: 2
+  - Stat: 8
+    Multiplier: 2
+  - Stat: 7
+    Multiplier: 1
+  - Stat: 6
+    Multiplier: 1
