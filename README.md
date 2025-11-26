@@ -1,4 +1,4 @@
-# Linneus Project (prototipo de juego que descartamos)
+# Linneus Project (prototipo)
 
 🎮 Prototipo desarrollado en Unity dentro de una incubadora de proyectos independientes.
 
