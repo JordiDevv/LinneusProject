@@ -1,6 +1,6 @@
-# Linneus Project (en desarrollo profesional)
+# Linneus Project (prototipo de juego que descartamos)
 
-🎮 Juego desarrollado en Unity dentro de una incubadora de proyectos independientes.
+🎮 Prototipo desarrollado en Unity dentro de una incubadora de proyectos independientes.
 
 ## 🧠 Rol y responsabilidades
 - Programación de gameplay y sistemas core en **C#**.
@@ -17,8 +17,10 @@
 - **Herramientas:** Git, Visual Studio Code
 
 ## 💬 Estado
-Proyecto en curso con expectativas de publicación comercial.  
-Repositorio de código privado por motivos de confidencialidad.
+LinneusProject es un **prototipo jugable de una versión anterior del videojuego**, desarrollado en Unity como parte de una fase temprana de exploración creativa y técnica.  
+Tras varios análisis, y con el aprendizaje obtenido en la incubadora, decidimos descartar este juego para adentrarnos en otros géneros e ideas.  
+
+Actualmente, el proyecto funciona como una base de aprendizaje y referencia técnica para la nueva dirección del desarrollo, conservando sistemas, herramientas y soluciones que siguen siendo útiles en la evolución del producto final.
 
 ## 🚀 Lo que he aprendido
 - Coordinación con equipo multidisciplinar (arte, diseño, música).
